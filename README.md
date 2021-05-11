@@ -3,7 +3,7 @@
     <img alt="dark-search" src="https://user-images.githubusercontent.com/61369603/117809248-9f108380-b266-11eb-8060-edf21540702e.png"/>
 
 
-    <p align="center">
+ 
 
        Dark-search python script.
 	   Dark net Search Engine
