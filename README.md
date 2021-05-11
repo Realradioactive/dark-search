@@ -11,7 +11,7 @@
 
 <p align="center">
     
-<img alt="nirvana" src=""/>
+
     <p align="center">
 
        Dark-search python script.
